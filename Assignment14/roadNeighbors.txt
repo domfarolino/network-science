@@ -1,0 +1,111 @@
+Aurora 60 102 103
+Batesville 30 106
+Beavercreek 6 13 19 110
+Bedford 28 47 68
+Brookville 10 64 92 106
+CambridgeCity 10 15 90
+Centerville 2 13 54 85
+Cincinnati 11 35 38 45 53 71 74 82
+Clayton 43 44
+Columbus 81 83 95
+Connersville 4 5 64 92
+Covington 7 18 82
+Cynthiana 20 25 69 88
+Dayton 2 6 16 43 54 70
+DryRidge 46 86 107
+Dunreith 5 29 92
+Eaton 13 31 44 79
+Eminence 24 41 47 84 86
+Erlanger 11 33 36 46
+Fairborn 2 42 101
+Falmouth 12 27 36 107
+Fayetteville 34 73 74 77
+Flemingsburg 69 76 78
+Fountaintown 29 92 96
+Frankfort 17 41 55 86
+Georgetown 12 55 88 107
+GeorgetownOH 39 77 89 93
+Germantown 20 36 69
+Glencoe 3 46 47 86
+Greenfield 15 23
+Greensburg 1 59 92 96 102
+Hamilton 16 35 75 91
+Hanover 66 68 94
+HiddenValley 18 52 60
+Hillsboro 21 62 67 80
+I275-US127 7 31 37 53
+I275-US27 18 20 27 39 82
+I275exit33 35 71 91
+I275exit63 7 39 74 77
+I275exit65 26 36 38
+I64-I265 41 84
+I64exit32 17 24 40
+I70-I675 19 43 99
+I70-I75 8 13 42
+I70exit10 8 16 79
+I71-I275 7 53 74 97 108
+I71-I75 14 18 28
+I71exit34 3 17 28 84
+I71exit45 49 97 105 108
+I71exit50 48 50 108 110
+I71exit65 49 51 104 110
+I71exit84 50 65 104
+I74exit5 33 71 106
+I75-I275 7 35 45 56
+I75-I675 6 13 58 70
+I75exit118 24 25 63
+I75exit29 53 57 61 75
+I75exit32 56 58 72
+I75exit38 54 57 72 85
+IN3-IN46 30 81 83
+Lawrenceburg 0 33
+Lebanon 56 85 105
+Leesburg 34 80 104
+Lexington 55 88 109
+Liberty 4 10 87 90
+London 51 100 110
+Louisville 32 84 94
+Macon 34 77 93
+Madison 3 32 83 102 103
+Maysville 12 22 27 89
+Miamisburg 13 54 72
+Miamitown 7 37 52 91
+Middletown 57 58 70 75
+Midland 21 74 80 108
+Milford 7 21 38 45 73
+Monroe 31 56 72
+Morehead 22 78
+MtOrab 21 26 38 67
+MtSterling 22 76 88 109
+NewParis 16 44 90
+NewVienna 34 62 73 108
+Newbern 9 59 96
+Newport 7 11 36
+NorthVernon 9 59 68 95 102
+Northfield 17 40 47 66
+OH48-OH73 6 58 61 105
+Owenton 14 17 24 28
+Oxford 64 91
+Paris 12 25 63 78 109
+Redoak 26 69 93
+Richmond 5 64 79
+Ross 31 37 71 87
+Rushville 4 10 15 23 30 96
+Russellville 26 67 89
+Scottsburg 32 66 95
+Seymour 9 83 94
+Shelbyville 23 30 81 92
+SouthLebanon 45 48
+SpringfieldE 99 100
+SpringfieldS 42 98 101
+Summerford 65 98
+US68-OH235 19 99 110
+Versailles 0 30 68 83
+Vevay 0 68
+WashingtonCH 50 51 62 108
+Waynesville 48 61 85 110
+WestHarrison 1 4 52
+Williamstown 14 20 25
+Wilmington 45 48 49 73 80 104
+Winchester 63 78 88
+Xenia 2 49 50 65 101 105
